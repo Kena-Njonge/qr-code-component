@@ -54,3 +54,10 @@ section{
     margin: auto;
     position: relative;
 }
+.attribution{
+    position: absolute;
+    top:97%;
+    font-family: 'Outfit', sans-serif;
+    letter-spacing: 0.025em;
+    text-decoration: none;
+}
